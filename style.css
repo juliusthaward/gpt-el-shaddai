@@ -193,6 +193,7 @@ header .navbar {
 .hero-section .hero-image-wrapper {
   max-width: 500px;
   margin-right: 30px;
+  margin-top: 50px;
 }
 
 /*About section styling*/
