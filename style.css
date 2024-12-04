@@ -8,12 +8,17 @@
   font-family: "Poppins", sans-serif;
 }
 
+.logo img {
+  height: 50px;
+  width: 50px;
+}
+
 :root {
   /*COLOR*/
   --white-color: #fff;
   --dark-color: #252525;
-  --primary-color: #3c141c;
-  --seconndary-color: #f3961c;
+  --primary-color: #1e8181;
+  --seconndary-color: #eed027;
   --light-pink-color: #faf4f5;
   --medium-gray-color: #ccc;
 
